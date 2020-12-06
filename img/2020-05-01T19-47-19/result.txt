@@ -1,0 +1,5 @@
+Scanned successful
+State PEAS Description for online English tutor.
+Differentiate between Soft and Hard computing
+Give Local and Global heuristic function for block world problem
+Give different membership functions of fuzzy logic.

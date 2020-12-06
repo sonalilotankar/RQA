@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block jscontent %}
+<script src="{{ static_url("js/work.js") }}"></script>
+{% end %}
+
+{% block content %}
+<div class="ui container">
+  <div class="ui header" id="message">Questions snapshot</div>
+  <!--<div class="ui segment demo demo-contenteditable" id="pastehere" contenteditable>Insert here</div>-->
+  <div class="ui segment demo demo-contenteditable" id="pastehere" placeholder="Insert here" contenteditable>
+  </div>
+  <div class="ui header" id="message">Scanned Result：</div>
+  <div class="ui segment" id="result">The results are shown here</div>
+  <div class="ui segment">
+        <!--<button id="btn" class="ui button" data-clipboard-text="no content yet">
+            Copy to clipboard
+        </button> -->
+ 
+        <form class="ui form" action='./download' enctype="multipart/form-data" method='get'>
+                 <div class="ui header" id="message">Repeated question Result：
+            <button class="ui button" type="submit">Download file</button>
+            </div>
+        </form>
+    </div>
+</div>
+{% end %}
+
+{% block endjscon atent %}
+<script >
+    var btn = document.getElementById('btn');
+    var clipboard = new Clipboard(btn);
+    clipboard.on('success', function(e) {
+        console.log(e);
+    });
+    clipboard.on('error', function(e) {
+        console.log(e);
+    });
+</script>
+{% end %}

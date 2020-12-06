@@ -1,0 +1,4 @@
+success
+Explain energy and power signal with examples.
+Write a note on distance measures
+Explain Image segmentation.

@@ -1,0 +1,702 @@
+-----AISC-----
+State PEAS Description for online English tutor?
+Differentiate between Soft and Hard computing?
+Give Local and Global heuristic function for block world problem?
+Give different membership functions of fuzzy logic?
+Determine (alfa )a-level sets and strong -level sets for the following fuzzy sets.A=(1,0.2),(2,0.5),(3,0.8),(4,1),(5,0.7),(6,0.3)}?
+Consider the graph given in Figure I below. Assume that the-initial state is S and the goal state is 7. Find a path from the initial state to the goal state using A*Search. Also report the solution cost. The straight line distance heuristic estimates for the nodes are as follows: h(-14, h(210, h(3)8, h(4-12 h(5)=10,h(6)=10,h(S)=15
+The law says that it is a crime for an American to sell weapons to hostile nations. The country Nono, an enemy of America, has some missiles, and all of its missiles were sold to it by Colonel West, who is American Prove that Col. West is a criminal using resolution technique?
+Implement AND function using perceptron networks for bipolar inputs and targets?
+Explain fuzzy controller system for a tipping example. Consider service and food quality rated between 0 and 10. use this to leave a tip of 25%?
+Design a Me-culloh Pitts model for XOR Gate? 
+Construct kohonen Self-organizing map to cluster the four given vectors, [0 011],[1000] ,[ 0 11] and [0 00 1] . The nuber of cluster formed is two.Assume an initial learning rate of 0.5?
+Explain planning problem in AI. What are different types of planning? Consider problem of changing a flat tire. The goal is to have a good spare tire properly mounted o to the cars axle. where the initial state has a flat tire on the axle and a good spare tire in the trunk. Give the ADL description for the problem?
+Write Short notes on following(Any Four (b)SANFIS 2) Hill Climbing algorithn (d)Wumpus world knowledge base (e)Different types of Neural Networks 
+
+-----BDA-----
+Explain Edit distance measure with an example?
+When it comes to big data how NOSQL scores over RDBMS ?
+Give difference between Traditional data management and analytics approach Versus Big data Approach?
+Give Applications of Social Network Mining ?
+What is Hadoop? Describe HDFS architechure with diagram ?
+Explain with block diagram architechure of Data stream Management System?
+What is the use of recommender system. How is classifiaction algoritm used in recommendation svstem.?
+Explain the following terms with diagram 1)	Hubs and Authorities 2)	Structure of the Web?
+What do you mean by Counting Distinct Elements in a stream. Illustrate with an example working of an Flajolet – Martin Algorithm used to count number of distinct elements.
+Explain different ways by which big data problems are handled by NoSQL?
+What is the role of JobTracker and TaskTracker in MapReduce.Illustrate Map Reduce execution pipeline with Word count example.
+What are the challenges in clustering of Data streams. Explain stream clustering algorithm in detail.
+Describe any five characteristics of Big Data 
+Describe the structure of HDFS in a Hadoop ecosystem using a diagram 
+Define Social networks and Social Network Mining 
+Explain Hamming distance measure with an example
+Describe characteristics of a NOSQL database. 
+Explain concept of Map Reduce using an example. Write Map Reduce pseudocode for"Group By"aggregation" in a database 
+Why is finding similar items important in Big Data? Illustrate using two example applications 
+Explain the concept of a Bloom Filter using an example.
+Explain any one algorithm to count number of distinct elements in a Data stream 
+Draw the diagram showing the structure of the World Wide Web and explain the different parts 
+What are Recommendation Systems? Clearly explain two applications for Recommendation Systems 
+Explain in detail any one Ranking algorithm used by Search Engines
+Explain with diagrams the Park Chen Yu(PCY)algorithm for frequent itemset mining. 
+What is a" Community"in a Social Network Graph? Explain any one algorithm for finding communities in a Social Graph
+Compare Big data analytics with traditional data mining and warehousing 
+With respect to data stream querying, give example of a) one time Queries b)continues queries c)predefined Queries d)ad-hoc queries 
+How Big Data Analytics can be useful in the development of Digital India 
+What are distance measures? Brief any two distance measures.
+Explain K mean algorithms for large data set. Explain its significance as compared to other clustering algorithms 
+How Bloom filter is useful for big data analytics. Explain with one example 
+Explain DGIM algorithm for counting ones in a window 
+Elaborate collaborative filtering system. How is the system different from a content based system. 
+Explain Hadoop ecosystem with core components? Explain the Physica Architecture of Hadoop. State its limitations 
+What is the Map Reduce? Explain the role of combiner with the help of an example
+Differentiate between a RDBMS and a No-sql Database 
+Explain the Clique Percolation Method (CPM)used in direct discovery of communities in a Social Graph with example 
+List down the steps in HITS Algorithm with one example 
+Explain Park-chen-yu algorithm. How memory mapping is done in PCY.
+
+
+-----DSIP-----
+Write a note on dynamic range compression.	
+Find DTFT of x(n) = {1,2,3,4}	
+Explain energy and power signal with examples.	
+Write a note on distance measures.	
+Explain Image segmentation.	
+Explain any 5 properties of Discrete Fourier Transform	
+Find the 4 point DFT of x(n) = {1,-1,2,-2}	
+Find the IDFT of X(k) = {1,0,1,0}	
+For x(n) = {1,3,-1,2,0,4}, plot the following discrete time signals	
+(i)	x (n+2)
+(ii)	x(-n-1)
+(iii)	2x(n)
+(iv)	x(n-1).  (n-3)
+(v)	x(n).u(n-2)
+Find the cross correlation of the causal sequences	10
+		x(n) = {1,4,7,8} and y(n) ={2,0,1,3}	
+Determine whether the following system is linear or non linear	
+		y(n) = 4x(n)+ 2	
+Determine radix 2 DIT-FFT Flow graph for x(n) = {2,2,3,1}	
+Justify or Contradict
+(i)Point processing techniques are called as Zero memory operations
+(ii)To remove salt and pepper noise median filter is better than low pass filter
+Explain Contrast stretching. Perform Contrast stretching on the following 4 bpp	10
+images
+r1=4, r2= 9, s1= 2, s2 = 13
+ 4 BPP IMAGE
+7	8	5	1
+7	8	8	2
+5	9	7	7
+8	7	12	15
+Explain Image segmentation
+Write Short note on edge detection in detail	
+What  is  a  Histogram  and  what  is  histogram  equalization.  Perform  Histogram	10 Equalization on the following 3 bpp image. Calculate the new histogram. Plot  the original and new histogram and show the new image.
+5	0	7	7	1	4	5	2	0	1
+7	5	6	2	5	3	4	3	2	5
+4	3	6	2	7	3	2	4	3	5
+7	4	4	1	6	4	3	7	7	4
+3	2	5	1	1	1	1	5	4	0
+
+-----MIS-----
+What is information system? Explain the necessary element with neat diagram
+Define Big Data and discuss its basic characteristics?
+Explain the Ethical issues and threats of information security?
+Describe how social computing inspires customer service
+Differentiate between computer network wired and wireless technology
+List the types of Information system? Explain in brief
+Discuss competitive advantage achieved in Information System
+Explain the architecture of Data mart and Data warehouse in an organization
+Discuss the Impact of BI on Decision Making.
+What are the potential benefit of social commerce to the customers and to the business?
+What are major security threats to the information system? Discuss the measures taken to control information security.
+Discuss the significance of social computing in marketing in detail
+What are the functional areas of Information system. Explain in detail
+Define CRM. Describe the different types of CRM
+Design MIS for the Educational System
+
+-----DWM-----
+A manufacturing company has a huge sales network. To control the sales, it is divided into regions. Each region has multiple zones. Each zone has different cities Each sales person is allocated different cities. The objective is to track sales figure at different granularity levels of region and to count no. of products sold. Design a star schema by considering granularity levels for region, sales person and time Convert the star schema to snowflake schema?
+Discuss i)Architecture of a typical data mining system i1)Application and major issues in Data Mining
+Consider a data warehouse for a hospital where there are three dimension a )Doctor b)Patient c)Time Consider two measures i) Count i)Charge where charge is the fee that the doctor charges a patient for a visit. For the above example create a cube and illustrate the following OLAP operations. I) Rollup 2)Drill down/ 3)Slice 4)D 5) Pivot
+Define Metadata. Discuss the types of Metadata stored in a data warehouse Illustrate with an example 
+Discuss different steps involved in Data Pre-processing 
+Discuss various OLAP Models and their architecture
+Differentiate top-down and bottom-up appro aches for building data warehouse Discuss the merits and limitations of each approach?
+Write short note on the following(Answer any FOUR) a)Fact Constellation b) Data visualization C)PP Tree DBSCAN e)ETL Process
+Information requirements are recorded for "Hotel occupancy"considering dimensions like Hotel. Room and Time. Few Facts recorded are vacant roon occupied rooms, number of occupants, etc Answer the following questions for this problem i. Design the star schema ii. Can you convert this star schema to a snowflake schema? If yes, justify and draw the snowflake schema 
+Explain Data mining as a step in KDD. Illustrate the architecture of typical data mining system
+The college wants to record the Marks for the courses completed by students usin the dimensions: I)Course, II)Student, III)Time &a measure Aggregate marks Create a Cube and perform following OLAP operations 1) Rollup ii)Drill down iii) Slice iv) Dice v) Pivot.
+Discuss Data Warehouse design strategies in detail? 
+Discuss the types of attributes and data visualization for data exploration
+Discuss various OL AP models and their architecture
+Discuss the process of extraction, transformation and loading with a neat and labelled diagram
+Write short note on the following (Answer any FOUR) i)Applications of Data Mining(minimum two in detail i1)Data pre-processing iii)FP Tree iv)Updates to dimension tables v) Meta data with example
+
+-----ML-----
+Explain the key terminologies of Support Vector Machine
+What are the key tasks of Machine Learning
+Explain the concepts behind Linear Regression 
+Explain in brief elements of Reinforcement Learning 
+Explain the steps required for selecting the right machine learning algorithm
+Apply k-means algorithm on given data for k-2. Use C1(2, 4)& C2(6, 3) as initial cluster centres Data:a(2,4),b3,3),c(5,5),d(6,3)e(4,3),f(6,6) 
+Explain classification using Bayesian Belief Network with an example 
+Define Support vector machine(SVM)and further explain the maximum margin linear separators concept 
+Explain in detail Principal Component Analysis for Dimension Reduction 
+Explain reinforcement learning in detail along with the various elements involved in forming the concept Also define what is meant by partiall, observable state
+Define well posed learning problem. Hence, define robot driving learning problem 
+Explain, in brief, Bayesian Belief networks. 
+Write short note on Temporal Difference Learning 
+Explain procedure to construct decision trees. 
+Explain how support vector machine can be used to find optimal hyperplane to classify linearly separable data. Give suitable example 
+Explain procedure to design machine learning system
+What is decision tree? How you will choose best attribute for decision tree classifier? Give suitable example 
+Explain K-mean clustering algorithm giving suitable example. Also, explain how K mean clustering differs from hierarchical clustering. 
+What is kernel? How kernel can be used with SVM to classify non-linearly separable data? Also, list standard kernel functions
+What is Q-learning? Explain algorithm for learning Q 
+Explain following terms with respect to Reinforcement learning: delayed rewards exploration, and partially observable states. 
+Write short notes on (a)Soft margin SVM (b)Radial Basis functions (c)Independent Component Analysis (d)Logistic Regression
+
+This digital credential was securely issued via Accredible and its information is valid
+o The owner of this credential has been verified
+A This issuer has not been verified
+Omkar Raut
+More Information G
+Issued on April 23, 2020 o
+Full credential history
+2020/04/23 Credential Issued
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+Differentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+Differentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+Differentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+
+vDifferentiate between quantitative and qualitative research in knowing the users?
+
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+Differentiate between quantitative and qualitative research in knowing the users?
+
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?
+Differentiate between quantitative and qualitative research in knowing the users?v
+
+vDifferentiate between quantitative and qualitative research in knowing the users?This digital credential was securely issued via Accredible and its information is valid
+o The owner of this credential has been verified
+A This issuer has not been verified
+Omkar Raut
+More Information G
+Issued on April 23, 2020 o
+Full credential history
+2020/04/23 Credential Issued
+o Skillzcafe
+口X
+skillzcafe. com/learner/my-courses
+sx Skillzcafe
+:E: Categories
+What do you want to search
+Teach on Skillzcafe
+My Courses
+Search with Course and Instructor Names
+Q
+Sort by
+MYSQL for Beginners
+hn Purcell
+SQL
+★★★★4.2(4450)
+D9 Completed REVISIT THE COURSE I
+it Skillzcafe
+Useful Link
+Skillzcafe is an online learning market place providing online courses to millions of students.
+Teach On Skillzcafe
+Our platform encourages instructors to share their varied knowledge by connecting them to
+About Us
+students across the globe
+Help and Support
+ai Search the web and Windows
+e=曲9
+4/23/2020
+o Skillzcafe
+口X
+skillzcafe. com/learner/my-courses
+sx Skillzcafe
+:E: Categories
+What do you want to search
+Teach on Skillzcafe
+My Courses
+Search with Course and Instructor Names
+Q
+Sort by
+MYSQL for Beginners
+hn Purcell
+SQL
+★★★★4.2(4450)
+D9 Completed REVISIT THE COURSE I
+it Skillzcafe
+Useful Link
+Skillzcafe is an online learning market place providing online courses to millions of students.
+Teach On Skillzcafe
+Our platform encourages instructors to share their varied knowledge by connecting them to
+About Us
+students across the globe
+Help and Support
+ai Search the web and Windows
+e=曲9
+4/23/2020
+error code：SDK108error code：SDK108o Skillzcafe
+口X
+skillzcafe. com/learner/my-courses
+sx Skillzcafe
+:E: Categories
+What do you want to search
+Teach on Skillzcafe
+My Courses
+Search with Course and Instructor Names
+Q
+Sort by
+MYSQL for Beginners
+hn Purcell
+SQL
+★★★★4.2(4450)
+D9 Completed REVISIT THE COURSE I
+it Skillzcafe
+Useful Link
+Skillzcafe is an online learning market place providing online courses to millions of students.
+Teach On Skillzcafe
+Our platform encourages instructors to share their varied knowledge by connecting them to
+About Us
+students across the globe
+Help and Support
+ai Search the web and Windows
+e=曲9
+4/23/2020
+o Skillzcafe
+口X
+skillzcafe. com/learner/my-courses
+sx Skillzcafe
+:E: Categories
+What do you want to search
+Teach on Skillzcafe
+My Courses
+Search with Course and Instructor Names
+Q
+Sort by
+MYSQL for Beginners
+hn Purcell
+SQL
+★★★★4.2(4450)
+D9 Completed REVISIT THE COURSE I
+it Skillzcafe
+Useful Link
+Skillzcafe is an online learning market place providing online courses to millions of students.
+Teach On Skillzcafe
+Our platform encourages instructors to share their varied knowledge by connecting them to
+About Us
+students across the globe
+Help and Support
+ai Search the web and Windows
+e=曲9
+4/23/2020
+Data warehouse design strategies
+Applications of Data Mining
+Role of metadata
+Data warehouse design strategies
+Applications of Data Mining
+Role of metadata
+Data warehouse design strategies
+Applications of Data Mining
+Role of metadata
+Data warehouse design strategies
+Applications of Data Mining
+Role of metadata
+Data warehouse design strategies
+Applications of Data Mining
+Role of metadata
+Data warehouse design strategies
+Applications of Data Mining
+Role of metadata
+State PEAS Description for online English tutor.
+Differentiate between Soft and Hard computing
+Give Local and Global heuristic function for block world problem
+Give different membership functions of fuzzy logic.
+State PEAS Description for online English tutor.
+Differentiate between Soft and Hard computing
+Give Local and Global heuristic function for block world problem
+Give different membership functions of fuzzy logic.
+State PEAS Description for online English tutor.
+Differentiate between Soft and Hard computing
+Give Local and Global heuristic function for block world problem
+Give different membership functions of fuzzy logic.
+o Skillzcafe
+口X
+skillzcafe. com/learner/my-courses
+sx Skillzcafe
+:E: Categories
+What do you want to search
+Teach on Skillzcafe
+My Courses
+Search with Course and Instructor Names
+Q
+Sort by
+MYSQL for Beginners
+hn Purcell
+SQL
+★★★★4.2(4450)
+D9 Completed REVISIT THE COURSE I
+it Skillzcafe
+Useful Link
+Skillzcafe is an online learning market place providing online courses to millions of students.
+Teach On Skillzcafe
+Our platform encourages instructors to share their varied knowledge by connecting them to
+About Us
+students across the globe
+Help and Support
+ai Search the web and Windows
+e=曲9
+4/23/2020
+Data warehouse design strategies
+Applications of Data Mining
+Role of metadata
+State PEAS Description for online English tutor.
+Differentiate between Soft and Hard computing
+Give Local and Global heuristic function for block world problem
+Give different membership functions of fuzzy logic.
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+error code：SDK108a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle
+
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain SONA framework for flexible network design
+Compare the Top-down vs Bottom-up Network Design Approach
+Explain energy and power signal with examples.
+Write a note on distance measures
+Explain Image segmentation.
+State PEAS Description for online English tutor.
+Differentiate between Soft and Hard computing
+Give Local and Global heuristic function for block world problem
+Give different membership functions of fuzzy logic.
+Compare the Top-down vs Bottom-up Network Design Approach
+Compare the Top-down vs Bottom-up Network Design Approach
+State and explain suitable routing protocols for Enterprise architecture

@@ -1,0 +1,4 @@
+success
+Data warehouse design strategies
+Applications of Data Mining
+Role of metadata

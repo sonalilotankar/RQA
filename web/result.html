@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="ui container">
+    <div class="ui segment">
+        <div class="ui {{result}} message">
+            <div class="header">{{result_header}}</div>
+        </div>
+    </div>
+    <div class="ui segment">
+        <div class="ui message">
+          <div class="ui header" id="message">Text Recognised：</div>
+
+            <p>{{result_content}}</p>
+        </div>
+    </div>
+    
+    <div class="ui segment">
+
+    <form class="ui form" action='./download' enctype="multipart/form-data" method='get'>
+
+              <div class="ui header" id="message">Repeated question Result：
+
+                     <button class="ui button" type="submit">Download file</button>
+             </div>
+        </form>
+    </div>
+</div>
+{% end %}

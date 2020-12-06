@@ -1,0 +1,4 @@
+success
+a )State and Explain in brief different external threats hampering the integrity of the
+enterprise network.
+b)Explain different phases in PPDIOO Network Lifecycle

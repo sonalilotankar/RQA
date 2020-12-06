@@ -1,0 +1,4 @@
+success
+Explain six behavioral patterns in details
+Differentiate between quantitative and qualitative research in knowing the
+users
